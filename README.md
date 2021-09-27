@@ -1,10 +1,10 @@
 # Incorporating Structured Knowledge into PAQ
 This repository contains code to support the thesis [Incorporating Structured Knowledge into PAQ](./thesis.pdf).
 
-##Results
+## Results
 All generated tables for the systematic analysis of PAQ-RePAQ on Natural Questions and TriviaQA as well as a subset of the extended PAQ collection are available [here](https://drive.google.com/drive/folders/1C6YraPIDmXYek7PD27Jd8opt9bHCuCOA?usp=sharing).
 
-##Installation
+## Installation
 
 ```shell
 ./install.sh
